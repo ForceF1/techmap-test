@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/techmap-test/static/css/main.1a6d3aa0.chunk.css",
-    "main.js": "/techmap-test/static/js/main.c658abb3.chunk.js",
-    "main.js.map": "/techmap-test/static/js/main.c658abb3.chunk.js.map",
+    "main.js": "/techmap-test/static/js/main.d4783736.chunk.js",
+    "main.js.map": "/techmap-test/static/js/main.d4783736.chunk.js.map",
     "reactPlayerDailyMotion.js": "/techmap-test/static/js/reactPlayerDailyMotion.62afb489.chunk.js",
     "reactPlayerDailyMotion.js.map": "/techmap-test/static/js/reactPlayerDailyMotion.62afb489.chunk.js.map",
     "reactPlayerFacebook.js": "/techmap-test/static/js/reactPlayerFacebook.c6cdc431.chunk.js",
@@ -29,13 +29,13 @@
     "reactPlayerYouTube.js.map": "/techmap-test/static/js/reactPlayerYouTube.9e6359d0.chunk.js.map",
     "runtime-main.js": "/techmap-test/static/js/runtime-main.133346ca.js",
     "runtime-main.js.map": "/techmap-test/static/js/runtime-main.133346ca.js.map",
-    "static/js/14.023a0544.chunk.js": "/techmap-test/static/js/14.023a0544.chunk.js",
-    "static/js/14.023a0544.chunk.js.map": "/techmap-test/static/js/14.023a0544.chunk.js.map",
+    "static/js/14.9ccd2483.chunk.js": "/techmap-test/static/js/14.9ccd2483.chunk.js",
+    "static/js/14.9ccd2483.chunk.js.map": "/techmap-test/static/js/14.9ccd2483.chunk.js.map",
     "index.html": "/techmap-test/index.html",
-    "precache-manifest.f379f209abb473c0c34364e9aa4be5d8.js": "/techmap-test/precache-manifest.f379f209abb473c0c34364e9aa4be5d8.js",
+    "precache-manifest.e1e72b2967a05bc1447c0ab89a9dedfc.js": "/techmap-test/precache-manifest.e1e72b2967a05bc1447c0ab89a9dedfc.js",
     "service-worker.js": "/techmap-test/service-worker.js",
     "static/css/main.1a6d3aa0.chunk.css.map": "/techmap-test/static/css/main.1a6d3aa0.chunk.css.map",
-    "static/js/14.023a0544.chunk.js.LICENSE.txt": "/techmap-test/static/js/14.023a0544.chunk.js.LICENSE.txt",
+    "static/js/14.9ccd2483.chunk.js.LICENSE.txt": "/techmap-test/static/js/14.9ccd2483.chunk.js.LICENSE.txt",
     "static/media/BIAndDataTechIcon.svg": "/techmap-test/static/media/BIAndDataTechIcon.1ed39878.svg",
     "static/media/PlayButton.svg": "/techmap-test/static/media/PlayButton.e57e6c06.svg",
     "static/media/about-img1.png": "/techmap-test/static/media/about-img1.91543de0.png",
@@ -60,8 +60,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.133346ca.js",
-    "static/js/14.023a0544.chunk.js",
+    "static/js/14.9ccd2483.chunk.js",
     "static/css/main.1a6d3aa0.chunk.css",
-    "static/js/main.c658abb3.chunk.js"
+    "static/js/main.d4783736.chunk.js"
   ]
 }
